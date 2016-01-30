@@ -1,4 +1,4 @@
-#Code engine demo
+#Demo
 ### installation
 - Clone me or fork me...
 - Install the modules: npm install
